@@ -1,0 +1,14 @@
+.header__menu-items {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+@media screen and (max-width: 425px) {
+  .header__menu-items {
+    flex-direction: column;
+  }
+}
+
