@@ -1,7 +1,4 @@
 .intro {
   margin: 0;
   padding:  2.7rem 3rem 3rem 4.8rem;
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  grid-gap: 3rem;
 }
