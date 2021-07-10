@@ -5,6 +5,7 @@
   justify-content: space-between;
   align-items: baseline;
   overflow: hidden;
+  margin: 0;
   padding:  3rem 3.75rem 3rem 4.8rem;
 }
 
