@@ -1,0 +1,4 @@
+.intro__text-column {
+  grid-column: 1;
+  grid-row: 1;
+}
