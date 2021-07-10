@@ -1,6 +1,7 @@
 .intro__image {
   margin: 0 auto;
   padding: 0;
-  max-width: 70%;
-  object-fit: contain;
+  min-width: 400px;
+  max-height: 400px;
+  object-fit: cover;
 }
