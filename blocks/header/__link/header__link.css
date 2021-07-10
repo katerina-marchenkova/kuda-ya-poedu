@@ -2,6 +2,9 @@
   margin: 0;
   padding: 0;
   text-decoration: none;
+  font-weight: bold;
+  font-size: 0.85rem;
+  letter-spacing: 0.05em;
   color: #010101;
   -webkit-transition: opacity 0.3s ease-out 0.1s;
   -moz-transition: opacity 0.3s ease-out 0.1s;
