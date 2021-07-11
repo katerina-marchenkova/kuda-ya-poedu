@@ -2,6 +2,6 @@
   grid-column: 2;
 }
 
-.two-column__item_alternate:nth-child(2n + 2) {
+.two-column__item_alternate:nth-child(2n) {
   grid-column: 1;
 }

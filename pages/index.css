@@ -24,7 +24,9 @@
 @import url(../blocks/places/places.css);
 @import url(../blocks/places/_theme/places_theme_gray.css);
 @import url(../blocks/places/__image/places__image.css);
-@import url(../blocks/places/__description-column/places__description-column.css);
+@import url(../blocks/places/__text-column/places__text-column.css);
+@import url(../blocks/places/__title/places__title.css);
+@import url(../blocks/places/__description/places__description.css);
 
 /* footer */
 @import url(../blocks/footer/footer.css);

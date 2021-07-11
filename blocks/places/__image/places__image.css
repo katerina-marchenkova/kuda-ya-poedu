@@ -1,4 +1,6 @@
 .places__image {
-  max-width: 100%;
-  object-fit: contain;
+  max-height: 600px;
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
 }
